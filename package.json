@@ -1,5 +1,5 @@
 {
-  "name": "devConnector",
+  "name": "devconnector",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "express-validator": "^6.14.2",
     "gravatar": "^1.8.2",
     "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.7",
     "request": "^2.88.2"
   },
   "devDependencies": {
